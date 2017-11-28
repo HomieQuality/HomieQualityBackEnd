@@ -3,6 +3,8 @@
 *.dll
 *.so
 *.dylib
+package-lock.json
+node_modules
 
 # Test binary, build with `go test -c`
 *.test
